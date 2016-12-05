@@ -1,7 +1,3 @@
-2222222
-aaaaaaa
-ccccccc
-rrrrrrr1
-11111
-rrrrrrr
-qqqqqqq
+1111111
+222222222
+333333
